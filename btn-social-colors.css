@@ -1,0 +1,89 @@
+/* Social Buttons like Bootstrap Social, ... but better */
+.btn-facebook {
+	color: #fff;
+	background: #3b5999;
+}
+.btn-facebook:hover {
+	background: #fff;
+	color: #3b5999;
+}
+.btn-vk {
+	color: #fff;
+	background: #6186ad;
+}
+.btn-vk:hover {
+	background: #fff;
+	color: #6186ad;
+}
+.btn-twitter {
+	color: #fff;
+	background: #1da1f2;
+}
+.btn-twitter:hover {
+	background: #fff;
+	color: #1da1f2;
+}
+.btn-icq {
+	color: #fff;
+	background: #43BF42;
+}
+.btn-icq:hover {
+	background: #F8F126;
+	color: #43BF42;
+}
+.btn-tumblr {
+	color: #fff;
+	background: #36465d;
+}
+.btn-tumblr:hover {
+	background: #fff;
+	color: #36465d;
+}
+.btn-telegram {
+	color: #fff;
+	background: #38B0E3;
+}
+.btn-telegram:hover {
+	background: #fff;
+	color: #38B0E3;
+}
+.btn-skype {
+	color: #fff;
+	background: #00AFF0;
+}
+.btn-skype:hover {
+	color: #00AFF0;
+	background: #fff;
+}
+.btn-youtube {
+	color: #fff;
+	background: #cd201f;
+}
+.btn-youtube:hover {
+	color: #cd201f;
+	background: #fff;
+}
+.btn-soundcloud {
+	color: #fff;
+	background: #f50;
+}
+.btn-soundcloud:hover {
+	color: #f50;
+	background: #fff;
+}
+.btn-mixcloud {
+	color: #fff;
+	background: #314359;
+}
+.btn-mixcloud:hover {
+	color: #314359;
+	background: #fff;
+}
+.btn-lastfm {
+	color: #fff;
+	background: #b90000;
+}
+.btn-lastfm:hover {
+	color: #b90000;
+	background: #fff;
+}
