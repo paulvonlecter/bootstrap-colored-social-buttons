@@ -1,89 +1,116 @@
 /* Social Buttons like Bootstrap Social, ... but better */
-.btn-facebook {
+.btn-social {
+    transition: all .3s;
+}
+.btn-social.facebook {
 	color: #fff;
 	background: #3b5999;
 }
-.btn-facebook:hover {
+.btn-social.facebook:hover {
 	background: #fff;
 	color: #3b5999;
 }
-.btn-vk {
+.btn-social.vk {
 	color: #fff;
 	background: #6186ad;
 }
-.btn-vk:hover {
+.btn-social.vk:hover {
 	background: #fff;
 	color: #6186ad;
 }
-.btn-twitter {
+.btn-social.twitter {
 	color: #fff;
 	background: #1da1f2;
 }
-.btn-twitter:hover {
+.btn-social.twitter:hover {
 	background: #fff;
 	color: #1da1f2;
 }
-.btn-icq {
+.btn-social.icq {
 	color: #fff;
 	background: #43BF42;
 }
-.btn-icq:hover {
+.btn-social.icq:hover {
 	background: #F8F126;
 	color: #43BF42;
 }
-.btn-tumblr {
+.btn-social.tumblr {
 	color: #fff;
 	background: #36465d;
 }
-.btn-tumblr:hover {
+.btn-social.tumblr:hover {
 	background: #fff;
 	color: #36465d;
 }
-.btn-telegram {
+.btn-social.telegram {
 	color: #fff;
 	background: #38B0E3;
 }
-.btn-telegram:hover {
+.btn-social.telegram:hover {
 	background: #fff;
 	color: #38B0E3;
 }
-.btn-skype {
+.btn-social.skype {
 	color: #fff;
 	background: #00AFF0;
 }
-.btn-skype:hover {
+.btn-social.skype:hover {
 	color: #00AFF0;
 	background: #fff;
 }
-.btn-youtube {
+.btn-social.youtube {
 	color: #fff;
 	background: #cd201f;
 }
-.btn-youtube:hover {
+.btn-social.youtube:hover {
 	color: #cd201f;
 	background: #fff;
 }
-.btn-soundcloud {
+.btn-social.soundcloud {
 	color: #fff;
 	background: #f50;
 }
-.btn-soundcloud:hover {
+.btn-social.soundcloud:hover {
 	color: #f50;
 	background: #fff;
 }
-.btn-mixcloud {
+.btn-social.mixcloud {
 	color: #fff;
 	background: #314359;
 }
-.btn-mixcloud:hover {
+.btn-social.mixcloud:hover {
 	color: #314359;
 	background: #fff;
 }
-.btn-lastfm {
+.btn-social.lastfm {
 	color: #fff;
 	background: #b90000;
 }
-.btn-lastfm:hover {
+.btn-social.lastfm:hover {
 	color: #b90000;
 	background: #fff;
+}
+.btn-social.steam {
+    color: #fff;
+    background: #171a21;
+}
+.btn-social.steam:hover {
+    color: #171a21;
+    background: #fff;
+}
+.btn-social.github {
+    color: #fff;
+    background: #24292e;
+}
+.btn-social.github:hover {
+    color: #24292e;
+    background: #fff;
+}
+.btn-social.linkedin {
+    color: #fff;
+    background: #0084bf;
+}
+.btn-social.linkedin:hover {
+    color: #0084bf;
+    background: #fff;
 }
